@@ -1,16 +1,13 @@
-### Hi there 👋
+##Welcome on my page 👋 ##
+My name is Stefani, I am an Engish teacher dreaming of becoming **Web Developer** 👩‍💻.
 
-<!--
-**ya-stefaniya/ya-stefaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+English C1, German A2, French A1; Russian, Belarusian native
 
-Here are some ideas to get you started:
+###My tech stack:###
+*Responsive web-development: HTML5, CSS/SCSS;
+*Frontend: JavaScript (ES5/ES6);
+*CSS preprocessors: Sass;
+*Code bundlers: Webpack;
+*Graphic Editors: Adobe Photoshop, Figma;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Recent Projects: ###
