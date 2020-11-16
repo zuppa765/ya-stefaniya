@@ -1,5 +1,5 @@
 
-![]https://b.radikal.ru/b20/2011/42/8d9f391d5e10.png
+![](https://b.radikal.ru/b23/2011/a8/bb108a679297.png)
 ## Welcome on my page 👋 
 
 ### My tech stack:
