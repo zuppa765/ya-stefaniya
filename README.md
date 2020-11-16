@@ -1,8 +1,6 @@
-## Welcome on my page 👋 
-My name is Stefaniya.
-I am an Engish teacher dreaming of becoming **Web Developer** 👩‍💻.
 
-English C1, German A2, French A1; Russian, Belarusian native
+![]https://b.radikal.ru/b20/2011/42/8d9f391d5e10.png
+## Welcome on my page 👋 
 
 ### My tech stack:
 * Responsive web-development: HTML5, CSS/SCSS;
@@ -10,5 +8,7 @@ English C1, German A2, French A1; Russian, Belarusian native
 * CSS preprocessors: Sass;
 * Code bundlers: Webpack;
 * Graphic Editors: Adobe Photoshop, Figma;
+
+English C1, German A2, French A1; Russian, Belarusian native
 
 ### Recent Projects:
