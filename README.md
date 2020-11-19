@@ -13,7 +13,7 @@ English C1, German A2, French A1; Russian, Belarusian native
 
 ### Recent Projects (from new to old):
 * Virtual Keyboard: [code](https://github.com/ya-stefaniya/virtual-keyboard), 
-[deploy](https://github.com/ya-stefaniya/virtual-keyboard)
+[deploy](https://ya-stefaniya.github.io/virtual-keyboard/)
 * Momentum App: [code](https://github.com/ya-stefaniya/momentum), [deploy](https://ya-stefaniya.github.io/momentum/)
 * Calculator [code](https://github.com/ya-stefaniya/calculator),[deploy](https://rolling-scopes-school.github.io/ya-stefaniya-JS2020Q3/calculator/)
 * One-page site, [Figma](figma.com/file/2Zev0HVCKABbZoAsuWTdcD/webdev_newVersion(19.09)?node-id=1%3A5) layout:  [code](https://github.com/ya-stefaniya/Web_Dev), [deploy](https://ya-stefaniya.github.io/Web_Dev)
