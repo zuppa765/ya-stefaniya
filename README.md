@@ -5,6 +5,8 @@
 ### My tech stack:
 * Responsive web-development: HTML5, CSS/SCSS;
 * Frontend: JavaScript (ES5/ES6);
+* React
+* Wordpress
 * CSS preprocessors: Sass;
 * Code bundlers: Webpack;
 * Graphic Editors: Adobe Photoshop, Figma;
@@ -12,6 +14,7 @@
 English C1, German A2, French A1; Russian, Belarusian native
 
 ### Recent Projects (from new to old):
+* Responsive 2-page websitre:[code](https://github.com/ya-stefaniya/shelter), [deploy](https://ya-stefaniya.github.io/shelter/pages/main/main.html)
 * Virtual Keyboard: [code](https://github.com/ya-stefaniya/virtual-keyboard), 
 [deploy](https://ya-stefaniya.github.io/virtual-keyboard/)
 * Momentum App: [code](https://github.com/ya-stefaniya/momentum), [deploy](https://ya-stefaniya.github.io/momentum/)
