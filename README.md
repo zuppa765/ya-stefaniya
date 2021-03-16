@@ -14,6 +14,7 @@
 English C1, German A2, French A1; Russian, Belarusian native
 
 ### Recent Projects (from new to old):
+* React Game: Rock,Paper,Scissors(extended):  [code](https://github.com/ya-stefaniya/react-game/tree/game/game), [deploy](https://ya-stefaniya-react-game.herokuapp.com/)
 * Responsive 2-page website (js only): [code](https://github.com/ya-stefaniya/final_js_exam/blob/master/README.md), [deploy](https://ya-stefaniya.github.io/final_js_exam/schelkovo.html)
 * Responsive 2-page website (html, sass, js by myself): [code](https://github.com/ya-stefaniya/shelter), [deploy](https://ya-stefaniya.github.io/shelter/pages/main/main.html)
 * Virtual Keyboard: [code](https://github.com/ya-stefaniya/virtual-keyboard), 
