@@ -1,6 +1,6 @@
 
 ![](https://a.radikal.ru/a22/2011/d4/81ea2446066d.png)
-## Welcome on my page 👋 
+## Welcome to my page 👋 
 
 ### My tech stack:
 * Responsive web-development: HTML5, CSS/SCSS;
