@@ -5,7 +5,8 @@
 ### My tech stack:
 * Responsive web-development: HTML5, CSS/SCSS;
 * Frontend: JavaScript (ES5/ES6);
-* React
+* React, Redux, Thunk
+* Mongo DB
 * Wordpress
 * CSS preprocessors: Sass;
 * Code bundlers: Webpack;
